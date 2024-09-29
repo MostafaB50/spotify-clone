@@ -75,3 +75,7 @@ By building this Spotify clone, you have learned the following:
 ## Conclusion
 
 This Spotify clone project allowed you to practice your React.js and Tailwind CSS skills, as well as learn new concepts like audio playback and client-side routing. You can use this project as a starting point for building more complex music streaming applications or as a reference for future projects.
+
+##Live Demo
+
+https://simplespotifyui.netlify.app
