@@ -78,4 +78,4 @@ This Spotify clone project allowed you to practice your React.js and Tailwind CS
 
 ## Live Demo
 
-https://simplespotifyui.netlify.app
+https://spotify-simple-ui.netlify.app
